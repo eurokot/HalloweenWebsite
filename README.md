@@ -1,2 +1,3 @@
 # HalloweenWebsite
-Responsive Halloween Website 
+*Responsive Halloween Website
+*Scroll Effect
